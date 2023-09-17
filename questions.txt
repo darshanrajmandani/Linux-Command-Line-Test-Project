@@ -1,0 +1,52 @@
+1.command to print
+a. read
+b. echo
+c. ls
+d. cd
+2.command to read
+a. read
+b. echo
+c. find
+d. cat
+3.command to create a directory
+a. mv
+b. rmdir
+c. create
+d. mkdir
+4.which is redirection operator
+a. ?
+b. <<
+c. >>
+d. >
+5.command to print present working directory
+a. cd
+b. ls
+c. pwd
+d. echo
+6.command to create 10 files from file1 to file10
+a. mkdir file{1..10}
+b. cat file{1--10}
+c. ls file 1..........10
+d. touch file{1..10}
+7.command used to create parent directory
+a. mkdir -p
+b. mkdir
+c. ls -a
+d. touch -p
+8.command to translate or delete
+a. ls
+b. tr
+c. cd
+d. delete
+9.which is equivalent to 777
+a. -wx-wx-wx
+b. -rx-rx-rx
+c. -rwx-rwx-rwx
+d. -rw-rw-rw
+10.command to create soft-link
+a. ls -a
+b. create soft-link
+c. touch soft-link
+d. ln -s
+
+
